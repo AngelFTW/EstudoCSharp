@@ -1,0 +1,15 @@
+C:\Users\JoseGabriel\Documents\C#Udemy\bin\Debug\net7.0\C#Udemy.exe
+C:\Users\JoseGabriel\Documents\C#Udemy\bin\Debug\net7.0\C#Udemy.deps.json
+C:\Users\JoseGabriel\Documents\C#Udemy\bin\Debug\net7.0\C#Udemy.runtimeconfig.json
+C:\Users\JoseGabriel\Documents\C#Udemy\bin\Debug\net7.0\C#Udemy.dll
+C:\Users\JoseGabriel\Documents\C#Udemy\bin\Debug\net7.0\C#Udemy.pdb
+C:\Users\JoseGabriel\Documents\C#Udemy\obj\Debug\net7.0\C#Udemy.csproj.AssemblyReference.cache
+C:\Users\JoseGabriel\Documents\C#Udemy\obj\Debug\net7.0\C#Udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseGabriel\Documents\C#Udemy\obj\Debug\net7.0\C#Udemy.AssemblyInfoInputs.cache
+C:\Users\JoseGabriel\Documents\C#Udemy\obj\Debug\net7.0\C#Udemy.AssemblyInfo.cs
+C:\Users\JoseGabriel\Documents\C#Udemy\obj\Debug\net7.0\C#Udemy.csproj.CoreCompileInputs.cache
+C:\Users\JoseGabriel\Documents\C#Udemy\obj\Debug\net7.0\C#Udemy.dll
+C:\Users\JoseGabriel\Documents\C#Udemy\obj\Debug\net7.0\refint\C#Udemy.dll
+C:\Users\JoseGabriel\Documents\C#Udemy\obj\Debug\net7.0\C#Udemy.pdb
+C:\Users\JoseGabriel\Documents\C#Udemy\obj\Debug\net7.0\C#Udemy.genruntimeconfig.cache
+C:\Users\JoseGabriel\Documents\C#Udemy\obj\Debug\net7.0\ref\C#Udemy.dll

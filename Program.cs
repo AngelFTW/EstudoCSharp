@@ -433,7 +433,7 @@ namespace First
 
             //Ler N numero de pessoas, depois o nome, idade, altura. Por fim mostrar a altura media e a porcentagem de quem tem menos de 16 anos
             int n;
-            N = int.Parse(Console.ReadLine());
+            n = int.Parse(Console.ReadLine());
 
             string[] nomes = new string [n];
             int[] idades = new int [n];
@@ -445,6 +445,142 @@ namespace First
                 idades[i] = int.Parse(s[1]);
                 alturas[i] = double.Parse(s[2]);
             }
+            for (int i = 0; i < n; i++){
+                soma += alturas[i];
+            }
+            double medaia = soma / n;
+
+            int cont = 0;
+            for (int i = 0; i < n; i++){
+                if (idades[i] < 16){
+                    cont++;
+                }
+            }
+            double porcentagem = (double) cont / n * 100.0;
+            Console.WriteLine("Pessoas com menos de 16 anos: " + porcentagem + "%");
+
+
+
+
+
+
+            
+            // For each
+            int n;
+            n = int.Parse(Console.ReadLine());
+
+            string[] vet = new string[n];
+
+            for (int i = 0; i < n; i++){
+                vet[i] = Console.ReadLine();
+            }
+
+            Console.WriteLine("Nomes Lidos: ");
+            foreach (string elemento in vet) { // pra cada elemento no vetor
+                Console.WriteLine(elemento);
+            }
+
+
+
+
+
+
+            // Matrizes
+            double[,] a;
+            a = new double[3, 4];
+
+
+            int m, n;
+            int[,] a;
+            string[] s1 = Console.ReadLine().Split(' ');
+            m = int.Parse(s1[0]);
+            n = int.Parse(s1[1]);
+            a = new int[m ,n];
+
+            for (int i = 0; i < m; i++){
+                string[] s = Console.ReadLine().Split(' ');
+                for(int j = 0; j < n; j++){
+                    a[i, j] = int.Parse(s[j]);
+                }
+            }
+
+            for (int i = 0; i < m; i++){
+                for(int j = 0; j < n; j++){
+                    Console.Write(a[i,j] + " ");
+                }
+                Console.WriteLine();
+            }
+
+
+
+
+            // Dizer matriz principal e quais sao negativos
+
+            int n;
+            int[,] a;
+            
+            n = int.Parse(Console.ReadLine());
+            a = new int[n, n];
+
+            for (int i = 0; i < m; i++){
+                string[] s = Console.ReadLine().Split(' ');
+                for(int j = 0; j < n; j++){
+                    a[i, j] = int.Parse(s[j]);
+                }
+            }
+
+            Console.WriteLine("Diagonal Principal: ");
+            for (int i = 0; i < n; i++){
+                Console.Write(a[i,i] + " ");
+            }   
+            Console.WriteLine();
+
+            int cont = 0;
+            for (int i = 0; i < m; i++){
+                for(int j = 0; j < n; j++){
+                    if (a[i,j] < 0){
+                        cont++;
+                    }
+                }
+            }
+
+
+
+
+
+
+
+
+            // Mostrar a soma das linhas
+
+            int m, n;
+            int[,] a;
+            string[] s1 = Console.ReadLine().Split(' ');
+            m = int.Parse(s1[0]);
+            n = int.Parse(s1[1]);
+            a = new int[m ,n];
+
+            for (int i = 0; i < m; i++){
+                string[] s = Console.ReadLine().Split(' ');
+                for(int j = 0; j < n; j++){
+                    a[i, j] = int.Parse(s[j]);
+                }
+            }
+
+            int[] vet = new int[m];
+
+            for (int i = 0; i < m; i++){
+                int soma = 0;
+                for (int j = 0; j < n; j++){
+                    soma += a[i,j];
+                }
+                vet[i] = soma;
+            }
+
+            for (int i = 0; i < m; i++){  //mostrar a soma
+                Console.WriteLine(vet[i]);
+            }
+
         }
     }
 }

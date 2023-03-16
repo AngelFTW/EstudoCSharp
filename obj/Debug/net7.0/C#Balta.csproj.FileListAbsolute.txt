@@ -1,0 +1,15 @@
+C:\Users\JoseGabriel\Documents\C#Balta\bin\Debug\net7.0\C#Balta.exe
+C:\Users\JoseGabriel\Documents\C#Balta\bin\Debug\net7.0\C#Balta.deps.json
+C:\Users\JoseGabriel\Documents\C#Balta\bin\Debug\net7.0\C#Balta.runtimeconfig.json
+C:\Users\JoseGabriel\Documents\C#Balta\bin\Debug\net7.0\C#Balta.dll
+C:\Users\JoseGabriel\Documents\C#Balta\bin\Debug\net7.0\C#Balta.pdb
+C:\Users\JoseGabriel\Documents\C#Balta\obj\Debug\net7.0\C#Balta.csproj.AssemblyReference.cache
+C:\Users\JoseGabriel\Documents\C#Balta\obj\Debug\net7.0\C#Balta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseGabriel\Documents\C#Balta\obj\Debug\net7.0\C#Balta.AssemblyInfoInputs.cache
+C:\Users\JoseGabriel\Documents\C#Balta\obj\Debug\net7.0\C#Balta.AssemblyInfo.cs
+C:\Users\JoseGabriel\Documents\C#Balta\obj\Debug\net7.0\C#Balta.csproj.CoreCompileInputs.cache
+C:\Users\JoseGabriel\Documents\C#Balta\obj\Debug\net7.0\C#Balta.dll
+C:\Users\JoseGabriel\Documents\C#Balta\obj\Debug\net7.0\refint\C#Balta.dll
+C:\Users\JoseGabriel\Documents\C#Balta\obj\Debug\net7.0\C#Balta.pdb
+C:\Users\JoseGabriel\Documents\C#Balta\obj\Debug\net7.0\C#Balta.genruntimeconfig.cache
+C:\Users\JoseGabriel\Documents\C#Balta\obj\Debug\net7.0\ref\C#Balta.dll

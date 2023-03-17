@@ -18,7 +18,7 @@ namespace Balta// Note: actual namespace depends on the project name.
             int x = -20;
             uint y = (uint) x;
 
-            Console.WriteLine(y + " " + y.GetType());   
+            Console.WriteLine(y + " " + y.GetType());
             
             
         }

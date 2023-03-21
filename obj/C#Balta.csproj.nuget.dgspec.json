@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JoseGabriel\\Documents\\C#Balta\\C#Balta.csproj": {}
+    "c:\\Users\\JoseGabriel\\Documents\\C#Balta\\C#Balta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JoseGabriel\\Documents\\C#Balta\\C#Balta.csproj": {
+    "c:\\Users\\JoseGabriel\\Documents\\C#Balta\\C#Balta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JoseGabriel\\Documents\\C#Balta\\C#Balta.csproj",
+        "projectUniqueName": "c:\\Users\\JoseGabriel\\Documents\\C#Balta\\C#Balta.csproj",
         "projectName": "C#Balta",
-        "projectPath": "C:\\Users\\JoseGabriel\\Documents\\C#Balta\\C#Balta.csproj",
+        "projectPath": "c:\\Users\\JoseGabriel\\Documents\\C#Balta\\C#Balta.csproj",
         "packagesPath": "C:\\Users\\JoseGabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JoseGabriel\\Documents\\C#Balta\\obj\\",
+        "outputPath": "c:\\Users\\JoseGabriel\\Documents\\C#Balta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JoseGabriel\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\JoseGabriel\Documents\C#BaltaCron\bin\Debug\net7.0\C#BaltaCron.exe
+C:\Users\JoseGabriel\Documents\C#BaltaCron\bin\Debug\net7.0\C#BaltaCron.deps.json
+C:\Users\JoseGabriel\Documents\C#BaltaCron\bin\Debug\net7.0\C#BaltaCron.runtimeconfig.json
+C:\Users\JoseGabriel\Documents\C#BaltaCron\bin\Debug\net7.0\C#BaltaCron.dll
+C:\Users\JoseGabriel\Documents\C#BaltaCron\bin\Debug\net7.0\C#BaltaCron.pdb
+C:\Users\JoseGabriel\Documents\C#BaltaCron\obj\Debug\net7.0\C#BaltaCron.csproj.AssemblyReference.cache
+C:\Users\JoseGabriel\Documents\C#BaltaCron\obj\Debug\net7.0\C#BaltaCron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseGabriel\Documents\C#BaltaCron\obj\Debug\net7.0\C#BaltaCron.AssemblyInfoInputs.cache
+C:\Users\JoseGabriel\Documents\C#BaltaCron\obj\Debug\net7.0\C#BaltaCron.AssemblyInfo.cs
+C:\Users\JoseGabriel\Documents\C#BaltaCron\obj\Debug\net7.0\C#BaltaCron.csproj.CoreCompileInputs.cache
+C:\Users\JoseGabriel\Documents\C#BaltaCron\obj\Debug\net7.0\C#BaltaCron.dll
+C:\Users\JoseGabriel\Documents\C#BaltaCron\obj\Debug\net7.0\refint\C#BaltaCron.dll
+C:\Users\JoseGabriel\Documents\C#BaltaCron\obj\Debug\net7.0\C#BaltaCron.pdb
+C:\Users\JoseGabriel\Documents\C#BaltaCron\obj\Debug\net7.0\C#BaltaCron.genruntimeconfig.cache
+C:\Users\JoseGabriel\Documents\C#BaltaCron\obj\Debug\net7.0\ref\C#BaltaCron.dll

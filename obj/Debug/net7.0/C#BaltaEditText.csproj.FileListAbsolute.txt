@@ -1,0 +1,15 @@
+C:\Users\JoseGabriel\Documents\C#BaltaEditText\bin\Debug\net7.0\C#BaltaEditText.exe
+C:\Users\JoseGabriel\Documents\C#BaltaEditText\bin\Debug\net7.0\C#BaltaEditText.deps.json
+C:\Users\JoseGabriel\Documents\C#BaltaEditText\bin\Debug\net7.0\C#BaltaEditText.runtimeconfig.json
+C:\Users\JoseGabriel\Documents\C#BaltaEditText\bin\Debug\net7.0\C#BaltaEditText.dll
+C:\Users\JoseGabriel\Documents\C#BaltaEditText\bin\Debug\net7.0\C#BaltaEditText.pdb
+C:\Users\JoseGabriel\Documents\C#BaltaEditText\obj\Debug\net7.0\C#BaltaEditText.csproj.AssemblyReference.cache
+C:\Users\JoseGabriel\Documents\C#BaltaEditText\obj\Debug\net7.0\C#BaltaEditText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseGabriel\Documents\C#BaltaEditText\obj\Debug\net7.0\C#BaltaEditText.AssemblyInfoInputs.cache
+C:\Users\JoseGabriel\Documents\C#BaltaEditText\obj\Debug\net7.0\C#BaltaEditText.AssemblyInfo.cs
+C:\Users\JoseGabriel\Documents\C#BaltaEditText\obj\Debug\net7.0\C#BaltaEditText.csproj.CoreCompileInputs.cache
+C:\Users\JoseGabriel\Documents\C#BaltaEditText\obj\Debug\net7.0\C#BaltaEditText.dll
+C:\Users\JoseGabriel\Documents\C#BaltaEditText\obj\Debug\net7.0\refint\C#BaltaEditText.dll
+C:\Users\JoseGabriel\Documents\C#BaltaEditText\obj\Debug\net7.0\C#BaltaEditText.pdb
+C:\Users\JoseGabriel\Documents\C#BaltaEditText\obj\Debug\net7.0\C#BaltaEditText.genruntimeconfig.cache
+C:\Users\JoseGabriel\Documents\C#BaltaEditText\obj\Debug\net7.0\ref\C#BaltaEditText.dll

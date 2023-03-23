@@ -22,7 +22,8 @@ namespace Balta// Note: actual namespace depends on the project name.
             
             var valor = 0;
 
-            do{
+            do
+            {
                 Console.WriteLine("Opa");
                 valor++;
             } while(valor < 5);
@@ -54,11 +55,41 @@ namespace Balta// Note: actual namespace depends on the project name.
             Console.WriteLine(mouse.Price);
             Console.WriteLine(mouse.Type);
             Console.WriteLine((int)mouse.Type);
+
+
+            //Guids
+            var id = Guid.NewGuid(); // Diferente do debaixo
+            id = new Guid("aadb97a59c56040772603c597490d729");
+            id.ToString().Substring(0, 8);
+
+            if(id == Guid.NewGuid())
+                id.ToString().Substring(0, 8);
+
+
+            // interpolacao
+            var price = 10.2;
+            var texto = "Preco do produto eh " + price;
+
+            var text1 = string.Format(@"O preco do produto 
+            eh {0} apenas na promocao {1}", price, true);
+            var texto3 = $"o preco do produto é {price}";
+
+
+            //Comparacao de Strings
+            var texto4 = "Algo Testando importante"; //Case sensitive
+            Console.WriteLine(texto4.CompareTo("Testando"));
+            Console.WriteLine(texto4.Contains("testando",StringComparison.OrdinalIgnoreCase));
+            Console.WriteLine(texto4.StartsWith("Algo"));
+            Console.WriteLine(texto4.EndsWith("importante"));
+            Console.WriteLine(texto4.Equals("Algo Testando importante"));
+            
         }
 
-        struct Product{
+        struct Product
+        {
 
-            public Product(int id, string name, double price, EProductType type){
+            public Product(int id, string name, double price, EProductType type)
+            {
 
                 Id = id;
                 Name = name;
@@ -72,20 +103,24 @@ namespace Balta// Note: actual namespace depends on the project name.
             public double Price;
             public EProductType Type;
 
-            public double PriceInDolar(double dolar){
+            public double PriceInDolar(double dolar)
+            {
                 return Price * dolar;
             }
         }
 
-        static void aoba (string par){
+        static void aoba (string par)
+        {
             Console.WriteLine(par);
         }
 
-        static string nome(string nome, string sobrenome) {
+        static string nome(string nome, string sobrenome) 
+        {
             return nome + " " + sobrenome;
         }
 
-        enum EProductType{
+        enum EProductType
+        {
             Product = 1,
             Service = 2
         }

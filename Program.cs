@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace Balta// Note: actual namespace depends on the project name.
 {
@@ -68,7 +69,7 @@ namespace Balta// Note: actual namespace depends on the project name.
 
             // interpolacao
             var price = 10.2;
-            var texto = "Preco do produto eh " + price;
+            var texto = " Preco do produto eh " + price;
 
             var text1 = string.Format(@"O preco do produto 
             eh {0} apenas na promocao {1}", price, true);
@@ -82,7 +83,24 @@ namespace Balta// Note: actual namespace depends on the project name.
             Console.WriteLine(texto4.StartsWith("Algo"));
             Console.WriteLine(texto4.EndsWith("importante"));
             Console.WriteLine(texto4.Equals("Algo Testando importante"));
-            
+
+            Console.WriteLine(texto4.IndexOf("i"));
+            Console.WriteLine(texto4.LastIndexOf("e"));
+            Console.WriteLine(texto4.ToLower());
+            Console.WriteLine(texto4.ToUpper());
+            Console.WriteLine(texto4.Insert(5,"ali"));
+            Console.WriteLine(texto4.Remove(5,3));
+            Console.WriteLine(texto4.Length);
+            Console.WriteLine(texto4.Replace("Algo", "Alfo"));
+            var resultado = texto4.Substring(3,5);
+            Console.WriteLine(resultado);
+            Console.WriteLine(texto.Trim());
+
+            var texto5 = new StringBuilder();
+            texto5.Append("Este texto é um teste");
+            texto5.Append("teste");
+            texto5.Append("testando");
+            texto5.Append("aopa eepa");
         }
 
         struct Product

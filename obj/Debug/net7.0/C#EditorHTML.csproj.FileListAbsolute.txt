@@ -1,0 +1,15 @@
+C:\Users\JoseGabriel\Documents\C#EditorHTML\bin\Debug\net7.0\C#EditorHTML.exe
+C:\Users\JoseGabriel\Documents\C#EditorHTML\bin\Debug\net7.0\C#EditorHTML.deps.json
+C:\Users\JoseGabriel\Documents\C#EditorHTML\bin\Debug\net7.0\C#EditorHTML.runtimeconfig.json
+C:\Users\JoseGabriel\Documents\C#EditorHTML\bin\Debug\net7.0\C#EditorHTML.dll
+C:\Users\JoseGabriel\Documents\C#EditorHTML\bin\Debug\net7.0\C#EditorHTML.pdb
+C:\Users\JoseGabriel\Documents\C#EditorHTML\obj\Debug\net7.0\C#EditorHTML.csproj.AssemblyReference.cache
+C:\Users\JoseGabriel\Documents\C#EditorHTML\obj\Debug\net7.0\C#EditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseGabriel\Documents\C#EditorHTML\obj\Debug\net7.0\C#EditorHTML.AssemblyInfoInputs.cache
+C:\Users\JoseGabriel\Documents\C#EditorHTML\obj\Debug\net7.0\C#EditorHTML.AssemblyInfo.cs
+C:\Users\JoseGabriel\Documents\C#EditorHTML\obj\Debug\net7.0\C#EditorHTML.csproj.CoreCompileInputs.cache
+C:\Users\JoseGabriel\Documents\C#EditorHTML\obj\Debug\net7.0\C#EditorHTML.dll
+C:\Users\JoseGabriel\Documents\C#EditorHTML\obj\Debug\net7.0\refint\C#EditorHTML.dll
+C:\Users\JoseGabriel\Documents\C#EditorHTML\obj\Debug\net7.0\C#EditorHTML.pdb
+C:\Users\JoseGabriel\Documents\C#EditorHTML\obj\Debug\net7.0\C#EditorHTML.genruntimeconfig.cache
+C:\Users\JoseGabriel\Documents\C#EditorHTML\obj\Debug\net7.0\ref\C#EditorHTML.dll

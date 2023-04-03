@@ -4,9 +4,12 @@ namespace EditorHTML // Note: actual namespace depends on the project name.
 {
     internal class Program
     {
-        public static class Menu
+
+        static void Main(string[] args)
         {
-            
+           
+            Menu.Show();
         }
+
     }
 }

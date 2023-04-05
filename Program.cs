@@ -44,6 +44,7 @@ namespace BaltaDatas// Note: actual namespace depends on the project name.
 
             var data4 = DateTime.Now;
             var data4 = DateTime.UtcNow;
+            var timezones = TimeZoneInfo.GetSystemTimeZones();
 
             if (data4.Date == DateTime.Now.Date)
             {
@@ -54,6 +55,13 @@ namespace BaltaDatas// Note: actual namespace depends on the project name.
 
             Console.WriteLine(DateTime.Now.ToString("D", pt));
             Console.WriteLine(string.Format("{0:0}", DateTime.Now));
+            Console.WriteLine(data4.ToLocalTime());
+
+            var timeSpan = new TimeSpan();
+            Console.WriteLine(timeSpan);
+            Console.WriteLine(DateTime.DaysInMonth(2019, 2));
+            Console.WriteLine(DateTime.Now.IsDaylightSavingTime());
+
 
         }
     }

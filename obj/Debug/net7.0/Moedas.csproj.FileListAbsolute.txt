@@ -1,0 +1,15 @@
+C:\Users\JoseGabriel\Documents\ProjetosC#\Moedas\bin\Debug\net7.0\Moedas.exe
+C:\Users\JoseGabriel\Documents\ProjetosC#\Moedas\bin\Debug\net7.0\Moedas.deps.json
+C:\Users\JoseGabriel\Documents\ProjetosC#\Moedas\bin\Debug\net7.0\Moedas.runtimeconfig.json
+C:\Users\JoseGabriel\Documents\ProjetosC#\Moedas\bin\Debug\net7.0\Moedas.dll
+C:\Users\JoseGabriel\Documents\ProjetosC#\Moedas\bin\Debug\net7.0\Moedas.pdb
+C:\Users\JoseGabriel\Documents\ProjetosC#\Moedas\obj\Debug\net7.0\Moedas.csproj.AssemblyReference.cache
+C:\Users\JoseGabriel\Documents\ProjetosC#\Moedas\obj\Debug\net7.0\Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseGabriel\Documents\ProjetosC#\Moedas\obj\Debug\net7.0\Moedas.AssemblyInfoInputs.cache
+C:\Users\JoseGabriel\Documents\ProjetosC#\Moedas\obj\Debug\net7.0\Moedas.AssemblyInfo.cs
+C:\Users\JoseGabriel\Documents\ProjetosC#\Moedas\obj\Debug\net7.0\Moedas.csproj.CoreCompileInputs.cache
+C:\Users\JoseGabriel\Documents\ProjetosC#\Moedas\obj\Debug\net7.0\Moedas.dll
+C:\Users\JoseGabriel\Documents\ProjetosC#\Moedas\obj\Debug\net7.0\refint\Moedas.dll
+C:\Users\JoseGabriel\Documents\ProjetosC#\Moedas\obj\Debug\net7.0\Moedas.pdb
+C:\Users\JoseGabriel\Documents\ProjetosC#\Moedas\obj\Debug\net7.0\Moedas.genruntimeconfig.cache
+C:\Users\JoseGabriel\Documents\ProjetosC#\Moedas\obj\Debug\net7.0\ref\Moedas.dll

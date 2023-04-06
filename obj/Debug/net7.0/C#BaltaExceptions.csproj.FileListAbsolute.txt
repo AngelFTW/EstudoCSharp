@@ -1,0 +1,15 @@
+C:\Users\JoseGabriel\Documents\ProjetosC#\C#BaltaExceptions\bin\Debug\net7.0\C#BaltaExceptions.exe
+C:\Users\JoseGabriel\Documents\ProjetosC#\C#BaltaExceptions\bin\Debug\net7.0\C#BaltaExceptions.deps.json
+C:\Users\JoseGabriel\Documents\ProjetosC#\C#BaltaExceptions\bin\Debug\net7.0\C#BaltaExceptions.runtimeconfig.json
+C:\Users\JoseGabriel\Documents\ProjetosC#\C#BaltaExceptions\bin\Debug\net7.0\C#BaltaExceptions.dll
+C:\Users\JoseGabriel\Documents\ProjetosC#\C#BaltaExceptions\bin\Debug\net7.0\C#BaltaExceptions.pdb
+C:\Users\JoseGabriel\Documents\ProjetosC#\C#BaltaExceptions\obj\Debug\net7.0\C#BaltaExceptions.csproj.AssemblyReference.cache
+C:\Users\JoseGabriel\Documents\ProjetosC#\C#BaltaExceptions\obj\Debug\net7.0\C#BaltaExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseGabriel\Documents\ProjetosC#\C#BaltaExceptions\obj\Debug\net7.0\C#BaltaExceptions.AssemblyInfoInputs.cache
+C:\Users\JoseGabriel\Documents\ProjetosC#\C#BaltaExceptions\obj\Debug\net7.0\C#BaltaExceptions.AssemblyInfo.cs
+C:\Users\JoseGabriel\Documents\ProjetosC#\C#BaltaExceptions\obj\Debug\net7.0\C#BaltaExceptions.csproj.CoreCompileInputs.cache
+C:\Users\JoseGabriel\Documents\ProjetosC#\C#BaltaExceptions\obj\Debug\net7.0\C#BaltaExceptions.dll
+C:\Users\JoseGabriel\Documents\ProjetosC#\C#BaltaExceptions\obj\Debug\net7.0\refint\C#BaltaExceptions.dll
+C:\Users\JoseGabriel\Documents\ProjetosC#\C#BaltaExceptions\obj\Debug\net7.0\C#BaltaExceptions.pdb
+C:\Users\JoseGabriel\Documents\ProjetosC#\C#BaltaExceptions\obj\Debug\net7.0\C#BaltaExceptions.genruntimeconfig.cache
+C:\Users\JoseGabriel\Documents\ProjetosC#\C#BaltaExceptions\obj\Debug\net7.0\ref\C#BaltaExceptions.dll

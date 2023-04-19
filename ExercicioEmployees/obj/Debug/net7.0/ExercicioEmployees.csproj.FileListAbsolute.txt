@@ -1,0 +1,15 @@
+C:\Users\JoseGabriel\Documents\C#Poo\ExercicioEmployees\bin\Debug\net7.0\ExercicioEmployees.exe
+C:\Users\JoseGabriel\Documents\C#Poo\ExercicioEmployees\bin\Debug\net7.0\ExercicioEmployees.deps.json
+C:\Users\JoseGabriel\Documents\C#Poo\ExercicioEmployees\bin\Debug\net7.0\ExercicioEmployees.runtimeconfig.json
+C:\Users\JoseGabriel\Documents\C#Poo\ExercicioEmployees\bin\Debug\net7.0\ExercicioEmployees.dll
+C:\Users\JoseGabriel\Documents\C#Poo\ExercicioEmployees\bin\Debug\net7.0\ExercicioEmployees.pdb
+C:\Users\JoseGabriel\Documents\C#Poo\ExercicioEmployees\obj\Debug\net7.0\ExercicioEmployees.csproj.AssemblyReference.cache
+C:\Users\JoseGabriel\Documents\C#Poo\ExercicioEmployees\obj\Debug\net7.0\ExercicioEmployees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseGabriel\Documents\C#Poo\ExercicioEmployees\obj\Debug\net7.0\ExercicioEmployees.AssemblyInfoInputs.cache
+C:\Users\JoseGabriel\Documents\C#Poo\ExercicioEmployees\obj\Debug\net7.0\ExercicioEmployees.AssemblyInfo.cs
+C:\Users\JoseGabriel\Documents\C#Poo\ExercicioEmployees\obj\Debug\net7.0\ExercicioEmployees.csproj.CoreCompileInputs.cache
+C:\Users\JoseGabriel\Documents\C#Poo\ExercicioEmployees\obj\Debug\net7.0\ExercicioEmployees.dll
+C:\Users\JoseGabriel\Documents\C#Poo\ExercicioEmployees\obj\Debug\net7.0\refint\ExercicioEmployees.dll
+C:\Users\JoseGabriel\Documents\C#Poo\ExercicioEmployees\obj\Debug\net7.0\ExercicioEmployees.pdb
+C:\Users\JoseGabriel\Documents\C#Poo\ExercicioEmployees\obj\Debug\net7.0\ExercicioEmployees.genruntimeconfig.cache
+C:\Users\JoseGabriel\Documents\C#Poo\ExercicioEmployees\obj\Debug\net7.0\ref\ExercicioEmployees.dll

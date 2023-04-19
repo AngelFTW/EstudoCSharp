@@ -1,0 +1,15 @@
+C:\Users\JoseGabriel\Documents\C#Poo\LocSemInter\obj\Debug\net7.0\LocSemInter.csproj.AssemblyReference.cache
+C:\Users\JoseGabriel\Documents\C#Poo\LocSemInter\obj\Debug\net7.0\LocSemInter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseGabriel\Documents\C#Poo\LocSemInter\obj\Debug\net7.0\LocSemInter.AssemblyInfoInputs.cache
+C:\Users\JoseGabriel\Documents\C#Poo\LocSemInter\obj\Debug\net7.0\LocSemInter.AssemblyInfo.cs
+C:\Users\JoseGabriel\Documents\C#Poo\LocSemInter\obj\Debug\net7.0\LocSemInter.csproj.CoreCompileInputs.cache
+C:\Users\JoseGabriel\Documents\C#Poo\LocSemInter\bin\Debug\net7.0\LocSemInter.exe
+C:\Users\JoseGabriel\Documents\C#Poo\LocSemInter\bin\Debug\net7.0\LocSemInter.deps.json
+C:\Users\JoseGabriel\Documents\C#Poo\LocSemInter\bin\Debug\net7.0\LocSemInter.runtimeconfig.json
+C:\Users\JoseGabriel\Documents\C#Poo\LocSemInter\bin\Debug\net7.0\LocSemInter.dll
+C:\Users\JoseGabriel\Documents\C#Poo\LocSemInter\bin\Debug\net7.0\LocSemInter.pdb
+C:\Users\JoseGabriel\Documents\C#Poo\LocSemInter\obj\Debug\net7.0\LocSemInter.dll
+C:\Users\JoseGabriel\Documents\C#Poo\LocSemInter\obj\Debug\net7.0\refint\LocSemInter.dll
+C:\Users\JoseGabriel\Documents\C#Poo\LocSemInter\obj\Debug\net7.0\LocSemInter.pdb
+C:\Users\JoseGabriel\Documents\C#Poo\LocSemInter\obj\Debug\net7.0\LocSemInter.genruntimeconfig.cache
+C:\Users\JoseGabriel\Documents\C#Poo\LocSemInter\obj\Debug\net7.0\ref\LocSemInter.dll

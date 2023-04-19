@@ -1,0 +1,15 @@
+C:\Users\JoseGabriel\Documents\C#Poo\LocComInter\bin\Debug\net7.0\LocComInter.exe
+C:\Users\JoseGabriel\Documents\C#Poo\LocComInter\bin\Debug\net7.0\LocComInter.deps.json
+C:\Users\JoseGabriel\Documents\C#Poo\LocComInter\bin\Debug\net7.0\LocComInter.runtimeconfig.json
+C:\Users\JoseGabriel\Documents\C#Poo\LocComInter\bin\Debug\net7.0\LocComInter.dll
+C:\Users\JoseGabriel\Documents\C#Poo\LocComInter\bin\Debug\net7.0\LocComInter.pdb
+C:\Users\JoseGabriel\Documents\C#Poo\LocComInter\obj\Debug\net7.0\LocComInter.csproj.AssemblyReference.cache
+C:\Users\JoseGabriel\Documents\C#Poo\LocComInter\obj\Debug\net7.0\LocComInter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseGabriel\Documents\C#Poo\LocComInter\obj\Debug\net7.0\LocComInter.AssemblyInfoInputs.cache
+C:\Users\JoseGabriel\Documents\C#Poo\LocComInter\obj\Debug\net7.0\LocComInter.AssemblyInfo.cs
+C:\Users\JoseGabriel\Documents\C#Poo\LocComInter\obj\Debug\net7.0\LocComInter.csproj.CoreCompileInputs.cache
+C:\Users\JoseGabriel\Documents\C#Poo\LocComInter\obj\Debug\net7.0\LocComInter.dll
+C:\Users\JoseGabriel\Documents\C#Poo\LocComInter\obj\Debug\net7.0\refint\LocComInter.dll
+C:\Users\JoseGabriel\Documents\C#Poo\LocComInter\obj\Debug\net7.0\LocComInter.pdb
+C:\Users\JoseGabriel\Documents\C#Poo\LocComInter\obj\Debug\net7.0\LocComInter.genruntimeconfig.cache
+C:\Users\JoseGabriel\Documents\C#Poo\LocComInter\obj\Debug\net7.0\ref\LocComInter.dll

@@ -1,0 +1,15 @@
+C:\Users\JoseGabriel\Documents\C#Poo\ClasseAbstrata\bin\Debug\net7.0\ClasseAbstrata.exe
+C:\Users\JoseGabriel\Documents\C#Poo\ClasseAbstrata\bin\Debug\net7.0\ClasseAbstrata.deps.json
+C:\Users\JoseGabriel\Documents\C#Poo\ClasseAbstrata\bin\Debug\net7.0\ClasseAbstrata.runtimeconfig.json
+C:\Users\JoseGabriel\Documents\C#Poo\ClasseAbstrata\bin\Debug\net7.0\ClasseAbstrata.dll
+C:\Users\JoseGabriel\Documents\C#Poo\ClasseAbstrata\bin\Debug\net7.0\ClasseAbstrata.pdb
+C:\Users\JoseGabriel\Documents\C#Poo\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.csproj.AssemblyReference.cache
+C:\Users\JoseGabriel\Documents\C#Poo\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseGabriel\Documents\C#Poo\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.AssemblyInfoInputs.cache
+C:\Users\JoseGabriel\Documents\C#Poo\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.AssemblyInfo.cs
+C:\Users\JoseGabriel\Documents\C#Poo\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\JoseGabriel\Documents\C#Poo\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.dll
+C:\Users\JoseGabriel\Documents\C#Poo\ClasseAbstrata\obj\Debug\net7.0\refint\ClasseAbstrata.dll
+C:\Users\JoseGabriel\Documents\C#Poo\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.pdb
+C:\Users\JoseGabriel\Documents\C#Poo\ClasseAbstrata\obj\Debug\net7.0\ClasseAbstrata.genruntimeconfig.cache
+C:\Users\JoseGabriel\Documents\C#Poo\ClasseAbstrata\obj\Debug\net7.0\ref\ClasseAbstrata.dll

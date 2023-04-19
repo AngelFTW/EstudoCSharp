@@ -1,0 +1,15 @@
+C:\Users\JoseGabriel\Documents\C#Poo\Icomparable\bin\Debug\net7.0\Icomparable.exe
+C:\Users\JoseGabriel\Documents\C#Poo\Icomparable\bin\Debug\net7.0\Icomparable.deps.json
+C:\Users\JoseGabriel\Documents\C#Poo\Icomparable\bin\Debug\net7.0\Icomparable.runtimeconfig.json
+C:\Users\JoseGabriel\Documents\C#Poo\Icomparable\bin\Debug\net7.0\Icomparable.dll
+C:\Users\JoseGabriel\Documents\C#Poo\Icomparable\bin\Debug\net7.0\Icomparable.pdb
+C:\Users\JoseGabriel\Documents\C#Poo\Icomparable\obj\Debug\net7.0\Icomparable.csproj.AssemblyReference.cache
+C:\Users\JoseGabriel\Documents\C#Poo\Icomparable\obj\Debug\net7.0\Icomparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoseGabriel\Documents\C#Poo\Icomparable\obj\Debug\net7.0\Icomparable.AssemblyInfoInputs.cache
+C:\Users\JoseGabriel\Documents\C#Poo\Icomparable\obj\Debug\net7.0\Icomparable.AssemblyInfo.cs
+C:\Users\JoseGabriel\Documents\C#Poo\Icomparable\obj\Debug\net7.0\Icomparable.csproj.CoreCompileInputs.cache
+C:\Users\JoseGabriel\Documents\C#Poo\Icomparable\obj\Debug\net7.0\Icomparable.dll
+C:\Users\JoseGabriel\Documents\C#Poo\Icomparable\obj\Debug\net7.0\refint\Icomparable.dll
+C:\Users\JoseGabriel\Documents\C#Poo\Icomparable\obj\Debug\net7.0\Icomparable.pdb
+C:\Users\JoseGabriel\Documents\C#Poo\Icomparable\obj\Debug\net7.0\Icomparable.genruntimeconfig.cache
+C:\Users\JoseGabriel\Documents\C#Poo\Icomparable\obj\Debug\net7.0\ref\Icomparable.dll

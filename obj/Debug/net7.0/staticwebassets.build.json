@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/Qi0/eAcGN2SR20Cc7K9mhMu7iuluZAKFM4EUk7VyJ4=",
+  "Hash": "5frICdGmf4ReyHUoEsYWT/IVcNkUK2nh1ojSzg/Zh9c=",
   "Source": "SalesWebMVC",
   "BasePath": "_content/SalesWebMVC",
   "Mode": "Default",
@@ -508,6 +508,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\JoseGabriel\\Documents\\C#MVC\\SalesWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-vapor.css",
+      "SourceId": "SalesWebMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\JoseGabriel\\Documents\\C#MVC\\SalesWebMVC\\wwwroot\\",
+      "BasePath": "_content/SalesWebMVC",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-vapor.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-vapor.css"
     },
     {
       "Identity": "C:\\Users\\JoseGabriel\\Documents\\C#MVC\\SalesWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

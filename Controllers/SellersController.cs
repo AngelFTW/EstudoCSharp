@@ -9,7 +9,7 @@ using SalesWebMVC.Services.Exceptions;
 
 namespace SalesWebMVC.Controllers
 {
-    [Route("seller")]
+    [Route("Seller")]
     public class SellersController : Controller
     {
         private readonly SellerService _sellerService;
@@ -69,8 +69,14 @@ namespace SalesWebMVC.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Delete(int id)
         {
+            try{
             await _sellerService.RemoveAsync(id);
             return RedirectToAction(nameof(Index));
+            }
+            catch (IntegrityException e)
+            {
+                return RedirectToAction(nameof(Error), new { message = e.Message });
+            }
         }
 
         [HttpGet("Details")]

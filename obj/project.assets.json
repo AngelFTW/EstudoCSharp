@@ -1020,24 +1020,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JoseGabriel\\.nuget\\packages\\": {}
+    "C:\\Users\\biels\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JoseGabriel\\Documents\\C#MVC\\SalesWebMVC\\SalesWebMVC.csproj",
+      "projectUniqueName": "C:\\Users\\biels\\Documents\\SalesWebMVC\\EstudoCSharp\\SalesWebMVC.csproj",
       "projectName": "SalesWebMVC",
-      "projectPath": "C:\\Users\\JoseGabriel\\Documents\\C#MVC\\SalesWebMVC\\SalesWebMVC.csproj",
-      "packagesPath": "C:\\Users\\JoseGabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JoseGabriel\\Documents\\C#MVC\\SalesWebMVC\\obj\\",
+      "projectPath": "C:\\Users\\biels\\Documents\\SalesWebMVC\\EstudoCSharp\\SalesWebMVC.csproj",
+      "packagesPath": "C:\\Users\\biels\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\biels\\Documents\\SalesWebMVC\\EstudoCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\JoseGabriel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\biels\\NuGet.Config",
+        "C:\\Users\\biels\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://13.84.151.200/nugetserver/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1090,8 +1094,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://13.84.151.200/nugetserver/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

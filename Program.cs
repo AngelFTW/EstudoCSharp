@@ -12,7 +12,7 @@ builder.Services.AddDbContext<SalesWebMVCContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("SalesWebMVCContext"), builder => builder.MigrationsAssembly("SalesWebMVC")));
 
 
-// Add services to the container.
+
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<SeedingService>();
 builder.Services.AddScoped<SellerService>();
@@ -31,11 +31,11 @@ var localizationOptions = new RequestLocalizationOptions
 app.UseRequestLocalization(localizationOptions);
 
 
-// Configure the HTTP request pipeline.
+
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+    
     app.UseHsts();
 }
 else
